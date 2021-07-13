@@ -1,0 +1,13 @@
+
+
+.content {
+  display: flex;
+  justify-content: center;
+ 
+ 
+}
+.newphoto{
+  margin-top: 90px;
+  width:101%;
+  height: max-content;
+}
